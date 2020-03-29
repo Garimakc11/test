@@ -1,3 +1,4 @@
-# test
-Im learning how to use Github. I have been familiar about repository,branches and commits so far.
+# tes
+This is README.md created in the branch readme-edit other than the master branch!
+Updating...
 
